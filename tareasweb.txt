@@ -1,0 +1,79 @@
+*Fase Técnica
+Crear mi lista de tareas
+Registro de dominio.es
+Contrato de alojamiento hosting
+Configuración del Servidor donde se alojará la tienda.
+Instalación y configuración básica del Software que utilizará la tienda en el servidor.
+Redirección de las DNS del Dominio.
+Apertura de Correos y configuración.
+Creación de cuenta FTP para publicación de archivos.
+Creación de Base de Datos, usuarios y privilegios.
+Implementación de SSL / HTTPS.
+Configuración de Buscador.
+Configuración de Módulos especiales de oferta, novedades, etc.
+
+*Fase Diseño
+Diseño del Logotipo.
+Diseño de Favicon.
+Diseño de interfaz general de tienda.
+   
+Fotos de productos y relacionadas
+Retoque de imágenes si fuera necesario.
+Diseño de Página de Error 404.
+Diseño Imagen de Sustitución, placeholder (por si no hay del producto).
+
+*Fase Contenidos
+Contenidos Meta en el HEAD (para Google)
+Contenido en Páginas estáticas tipo Quienes Somos
+Implementación de RDLOPD y RGPD2018
+Creación de páginas para RGPD / Términos y condiciones
+Garantías
+    
+Política de privacidad
+Política de cookies
+Términos y condiciones
+Aviso legal
+   
+Aviso de Cookies
+    
+Creación de SITEMAP (para Google).
+*Fase Seguridad
+Implementar seguridad SSL HTTPS
+Instalar seguridad de acceso a módulos de administración
+Configurar niveles de protección de escritura
+Planificar BackUp base de datos
+Planificar BackUp estructura web
+
+*Fase Social
+Incluir enlace a Redes Sociales.
+Incluir posibles ventanas/iframe de redes sociales.
+Incluir opciones de compartir los productos.
+
+*Fase SEO SEM (alta en Google)
+Alta en Googbe MyBusiness.
+Alta en Google Search Console.
+Solicitar clave de localización.
+Alta en Google Analitycs.
+Alta en Google Shopping.
+Planificar Publicaciones.
+Planificar Campañas Marketing.
+Responder las valoraciones de los clientes
+
+*Chequeo final
+Unir CSS y Javascript
+Optimización del tiempo de carga de paginas.
+ 
+Prueba de lanzamiento de Newsletter.
+Pruebas de Optimización para Google.
+Chequear diseño en Móviles.
+Chequear envío de newsletter.
+   
+Optimización del gestor por módulos sin uso.
+Sistema de Seguridad de Bases de Datos y Copias de seguridad.
+Sistema de caché para mejorar rendimiento.
+Limpiar datos falsos de prueba.
+
+*Formación
+   
+Módulo de Entradas
+Repaso general a los procesos
